@@ -2,6 +2,8 @@
 
 O objetivo deste projeto é fazer a prototipagem do site no Figma e posteriormente passar para o Vscode, esse é um dos requisitos obrigatórios para os participantes do bootcamp da Kick.
 
+- Link do Figma: https://www.figma.com/file/sL4VQYal6jbeCS4NTSzExY/Untitled?type=design&node-id=0%3A1&mode=design&t=E7NgkvnO5noG4E0P-1
+
 - Paleta de cores do projeto:
 
   ![paleta de cores.png](https://github.com/PedroYokada/projetowebxboxkick/blob/main/telas%20do%20projeto/paleta%20de%20cores.png)
@@ -42,3 +44,4 @@ O objetivo deste projeto é fazer a prototipagem do site no Figma e posteriormen
  - Tela principal do site - Tela de jogos:
 
    ![Gamepass assinar tela.png](https://github.com/PedroYokada/projetowebxboxkick/blob/main/telas%20do%20projeto/Gamepass%20tela%20principal.png)
+
